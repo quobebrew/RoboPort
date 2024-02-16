@@ -34,7 +34,7 @@ RoboPort aims to revolutionize the way investors manage their portfolios by offe
 **Development Team:**
 - Alfred Brew
 - Chris Cronin
-- Vishnu Vardham Ganapathiappan Kaliswamy
+- Vishnu Vardhan Ganapathiappan Kaliswamy
 - Serena Shkabari
 - Diana Wang
   
