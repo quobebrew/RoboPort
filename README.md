@@ -30,3 +30,11 @@ RoboPort will provide a user-friendly Notebook/Streamlit Python application wher
 
 **Conclusion:**
 RoboPort aims to revolutionize the way investors manage their portfolios by offering advanced portfolio optimization techniques in a user-friendly and accessible platform. With RoboPort, investors can take control of their financial future, optimize their investment strategies, and achieve their long-term financial goals with confidence.
+
+**Development Team:**
+- Alfred Brew
+- Chris Cronin
+- Vishnu Vardham Ganapathiappan Kaliswamy
+- Serena Shkabari
+- Diana Wang
+  
