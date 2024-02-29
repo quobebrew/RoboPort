@@ -9,8 +9,6 @@ from datetime import datetime, timedelta
 
 
 
-
-
 st.title('Welcome to RoboPort')
 st.subheader('Your ultimate robo portfolio optimization tool')
 
